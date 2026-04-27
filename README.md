@@ -25,9 +25,11 @@ Working on **Large Language Models (LLMs), Prompt Engineering, LangChain, and AI
 
 ## 🚀 **Projects**  
 
-🔹 **AgriVision - Samrt Farming Assistant App** – Help to Analyse soil & predict Health Score and Suggests crops and Fertilizers   
+🔹 **AgriVision - Smart Farming Assistant App** – Help to Analyse soil & predict Health Score and Suggests crops and Fertilizers   
+
 🔹 **AI City Digital Twin** – Help to analyse future scenario and planning before doing major developments in city, helps to predicts AQI and Environmental conditions.  
 🔹 **Ai Powered Task Management System** – Automatically Assign and Classify Tasks based on Priority. 
+
 🔹 **Customer Churn Prediction** – Deep learning model with Flask deployment  
 
 ---
