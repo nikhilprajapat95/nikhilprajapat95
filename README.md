@@ -1,15 +1,98 @@
-# 💫 About Me:
-Nikhil Prajapat<br>Ujjain | nikhilprajapat955@gmail.com | https://github.com/nikhilprajapat95 |  www.linkedin.com/in/nikhil-prajapat-b547882a4 <br><br>EDUCATION<br><br>Shri Guru Sandipani Institute of Technology and Science, Ujjain<br>B.Tech in Computer Science Engineering – 7.65 CGPA        	                     			        Sep 2022 – June 2026<br><br>TECHNICAL SKILLS<br>-	Programming Languages: Python, SQL<br>-	Machine Learning: Supervised & Unsupervised Learning, Regression, Classification, Model Evaluation, Scikit-learn<br>-	Deep Learning & NLP: Artificial Neural Networks (ANN), Natural Language Processing (NLP), Text Preprocessing, TF-IDF, Word Embeddings <br>-	Backend Development: Flask, FastAPI<br>-	Data Analysis: Exploratory Data Analysis (EDA), Data Cleaning, Data Preprocessing, Feature Engineering, Statistical Analysis<br>-	Data Engineering: Data Pipelines , ETL Processes <br>-	Databases: MySQL, MongoDB, PostgreSQL <br>-	Tools & Platforms: Git, GitHub, Docker , Jupyter Notebook<br>-	Core Competencies: Predictive Modeling, Model Validation, Problem Solving<br>EXPERIENCE<br><br>Logical Soft Tech Private Limited – Indore , India							<br>AI / ML Intern – On Site		                   	                     			       Dec 2025 – March 2026<br>-	Completed training and hands-on assignments in AI&ML and Built an end-to-end ML web application using Flask.<br>-	Developed modular pipeline including data ingestion, transformation, and model training.<br>-	Applied data preprocessing, feature engineering, and model evaluation techniques.<br>-	Implemented logging and exception handling for better code reliability. Containerized and deployed the application using Docker.<br>Infotact Solutions	- Bangalore, India								<br>Data Science & ML Intern - Remote		                   	 			        May 2025 – Aug 2025<br>- Collaborate with teams to develop data-driven solutions. Collecting, cleaning, and preprocessing structured & unstructured data. <br>- Building and deploy ML models using Python and related frameworks. Performed EDA and create visualizations. <br>- Optimization of models for accuracy and performance. Document code, methods, and results.<br>PROJECTS<br><br>AgriVision –Smart Farming Assistant APP <br>•	Developed a Smart Farming Assistant web application that predicts crop yield and detects plant diseases using Machine Learning and CNN-based image classification.<br>•	Built the application using Streamlit, integrating TensorFlow, Pandas, and NumPy for model training, image processing, and data preprocessing.<br>•	Implemented crop recommendation and disease detection models to provide AI-driven insights that help farmers make better agricultural decisions.<br>AI Powered Task Management System<br>•	Developed an AI-powered task management system that automatically classifies, prioritizes, and assigns tasks using Natural Language Processing (NLP) and Machine Learning.<br>•	Applied text preprocessing, TF-IDF feature extraction, and SVM/Naive Bayes models to categorize tasks based on priority and content.<br>•	Built a Flask-based backend to automate task workflows and improve productivity through intelligent task recommendations.<br>AI City Digital Twin <br><br>•	Developed an AI-powered digital twin of a city to simulate and analyze real-time urban scenarios like traffic and infrastructure usage.<br>•	Integrated local LLM (LLaMA 3.2 via Ollama) for intelligent decision-making and natural language interaction.<br>•	Built a web-based interface using Flask, HTML, CSS, and JavaScript for interactive visualization and user queries.<br>•	Implemented predictive insights and smart recommendations to optimize city operations and enhance urban planning.<br><br>CERTIFICATION<br>•	Complete Data Science, Machine Learning, DL, NLP Bootcamp – Udemy<br>
+# Hi there, I'm Nikhil Prajapat ! 👋  
 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nikhilprajapat95&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nikhilprajapat95&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nikhilprajapat95&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### **AI/ML Engineer & Python Developer**  
+**Python (Flask & FastAPI), Machine Learning, Deep Learning, NLP, Generative AI, Data Visualization**
 
 ---
-[![](https://komarev.com/ghpvc/?username=nikhilprajapat95&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 **About Me**  
+
+👀 **Interests:**  
+I’m passionate about **Machine Learning, Deep Learning, NLP, and Generative AI**, with hands-on experience in building real-world End to End AIML Projects and deploying scalable solutions.
+
+🌱 **Currently Learning:**  
+Working on **Large Language Models (LLMs), Prompt Engineering, LangChain, and AI workflow automation** to build intelligent, production-ready systems.
+
+---
+
+## 💼 **Experience**  
+
+### 🧠 AIML Intern — Logical Softtech PVT. LTD. *(Dec 2025 – Apr 2026)*  
+
+### ⚙️ Data Science & ML Intern — Infotact Solutions *(May 2025 – Aug 2025)*  
+
+---
+
+## 🚀 **Projects**  
+
+🔹 **AgriVision - Samrt Farming Assistant App** – Help to Analyse soil & predict Health Score and Suggests crops and Fertilizers   
+🔹 **AI City Digital Twin** – Help to analyse future scenario and planning before doing major developments in city, helps to predicts AQI and Environmental conditions.  
+🔹 **Ai Powered Task Management System** – Automatically Assign and Classify Tasks based on Priority. 
+🔹 **Customer Churn Prediction** – Deep learning model with Flask deployment  
+
+---
+
+## 🛠 **Tech Stack**  
+
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/CNN-4285F4?style=for-the-badge&logo=google&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/RNN-34A853?style=for-the-badge&logo=google&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/NLP-FF4500?style=for-the-badge&logo=semanticweb&logoColor=white"></td>
+  </tr>
+
+  <!-- NEW: GenAI / LLM STACK -->
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=probot&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=semanticweb&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Chatbots-00C853?style=for-the-badge&logo=wechat&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white"></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=flask&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/API%20Integration-0052CC?style=for-the-badge&logo=fastapi&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"></td>
+  </tr>
+
+  
+</table>
+---
+
+## 📫 **Connect with Me**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nikhil-prajapat-b547882a4)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilprajapat95)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://nikhilprajapat95.github.io)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilprajapat955@gmail.com)  
+
+---
+
+🚀 **Always building, learning, and pushing AI boundaries!**
